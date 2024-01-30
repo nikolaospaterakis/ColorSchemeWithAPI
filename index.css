@@ -55,6 +55,7 @@ body {
     max-width: 60px;
 }
 
+  
 #sec-top select {
     background-color: white;
     border: none;
@@ -68,6 +69,8 @@ body {
     border: 2px solid #D1D5DB;
     border-radius: 5px;
     padding: 0.5em;
+    display: flex;
+    align-items: center;
 }
 
 .fa-chevron-down {
