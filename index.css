@@ -55,15 +55,6 @@ body {
     max-width: 60px;
 }
 
-.select {
-    position: relative;
-    display: flex;
-    width: 20em;
-    height: 3em;
-    border-radius: .25em;
-    overflow: hidden;
-  }
-  
 #sec-top select {
     background-color: white;
     border: none;
@@ -71,15 +62,6 @@ body {
     -moz-appearance: none;
     appearance: none;
     font-size: 1.4em;
-}
-
-#menu {
-    padding: 0.34em;
-    border: 2px solid #D1D5DB;
-    border-radius: 5px;
-    width: 30%;
-    display: flex;
-    align-items: center;
 }
 
 #sec-top div {
@@ -90,6 +72,7 @@ body {
 
 .fa-chevron-down {
     color: #D1D5DB;
+    margin-left: -1.2em;
 }
 
 #sec-top button {
